@@ -1,10 +1,5 @@
 codymarler9
 
-Engineer. TypeScript. Full-stack systems.
+**Experience**: Netflix, AMN Healthcare, full-stack development at scale
 
-Previous: Netflix, Healthcare platforms
-Current: Building at scale
-
-Languages: TypeScript, JavaScript, Python
-Databases: PostgreSQL, MongoDB, Redis
-Cloud: AWS, GCP
+TypeScript | React | Node.js | PostgreSQL | AWS | Docker
