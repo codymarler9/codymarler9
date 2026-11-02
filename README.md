@@ -1,5 +1,9 @@
-codymarler9
+# Cody Marler
 
-**Experience**: Netflix, AMN Healthcare, full-stack development at scale
+Senior full-stack software engineer with experience building large-scale applications at Netflix.
 
-TypeScript | React | Node.js | PostgreSQL | AWS | Docker
+**Background**: Full-stack development, system architecture, cloud infrastructure
+
+**Technologies**: TypeScript, JavaScript, React, Node.js, PostgreSQL, MongoDB, AWS, GCP, Docker
+
+**Current Focus**: Building scalable applications, cloud architecture, system reliability
