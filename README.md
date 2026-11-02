@@ -1,18 +1,13 @@
-## Cody Marler
+I am Cody Marler
 
-**My ML Infrastructure Journey**
+**MLOps Infrastructure Engineer**
 
-Starting as a full-stack web developer, I've transitioned into MLOps and building the systems that make ML production-ready.
+Transitioned from full-stack web development to building production ML systems and infrastructure.
 
-**2022:** First containerized ML model → 3 month deployment cycle
-**2023:** Built feature store → 70% reduction in feature engineering time
-**2024:** Implemented automated retraining → 50+ models deployed simultaneously
-**Now:** Operating ML platform serving 100+ concurrent inference requests
+**Career Progression:**
+- 2022: Containerized first ML model (3-month deployment cycle)
+- 2023: Built feature store (70% reduction in feature engineering time)
+- 2024: Deployed 50+ models with automated retraining
+- Current: Operating ML platform with 100+ concurrent inference requests
 
-### What I do
-- Design scalable model serving infrastructure with Kubernetes
-- Build automated training/deployment/monitoring pipelines
-- Create tools that data scientists actually want to use
-- Reduce time-to-production for ML from months to days
-
-**Favorite problem:** Balancing ML accuracy against inference latency and cost.
+Designing scalable model serving with Kubernetes. Building automated ML pipelines. Creating tools data scientists want to use.
