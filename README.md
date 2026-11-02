@@ -1,19 +1,18 @@
-# I am Cody Marler
+## Cody Marler
 
-**Senior Software Engineer**
+**My ML Infrastructure Journey**
 
-## Focus Areas
-Full-Stack Development, TypeScript, Node.js, React, MLOps, Model Deployment, ML Infrastructure
+Starting as a full-stack web developer, I've transitioned into MLOps and building the systems that make ML production-ready.
 
-## ML Experience
-- Designed and deployed ML model serving infrastructure using Kubernetes and Docker containers
-- Built automated ML pipeline orchestration systems reducing model deployment time by 80%
-- Implemented A/B testing frameworks for ML experiments with statistical significance tracking
-- Created monitoring dashboards for model performance metrics and data quality assurance
+**2022:** First containerized ML model → 3 month deployment cycle
+**2023:** Built feature store → 70% reduction in feature engineering time
+**2024:** Implemented automated retraining → 50+ models deployed simultaneously
+**Now:** Operating ML platform serving 100+ concurrent inference requests
 
-## Connect
-- GitHub: [@codymarler9](https://github.com/codymarler9)  
-- LinkedIn: [Profile](https://linkedin.com/in/codymarler9)
+### What I do
+- Design scalable model serving infrastructure with Kubernetes
+- Build automated training/deployment/monitoring pipelines
+- Create tools that data scientists actually want to use
+- Reduce time-to-production for ML from months to days
 
----
-*Building solutions that matter.*
+**Favorite problem:** Balancing ML accuracy against inference latency and cost.
