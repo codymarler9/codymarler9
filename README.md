@@ -1,23 +1,5 @@
-# I am Cody Marler
+# Cody Marler
 
-![GitHub followers](https://img.shields.io/github/followers/codymarler9?style=social)
-![Status](https://img.shields.io/badge/Looking_for-Opportunities-brightgreen)
+Full-stack software engineer with experience building scalable web applications at Netflix and healthcare platforms. Focus on backend systems, cloud infrastructure, and team leadership.
 
-## 🛠️ Technical Skills
-Full-Stack Development, TypeScript, Node.js, React, Cloud Architecture
-
-## 🎯 Specialization
-Modern Web Development
-
-## 📊 What I Do
-- Architect scalable systems
-- Write maintainable code
-- Lead technical initiatives
-- Share knowledge with teams
-
-## 🔗 Profiles
-- **GitHub**: [@codymarler9](https://github.com/codymarler9)
-- **LinkedIn**: [View Profile](https://linkedin.com/in/codymarler9)
-
----
-*Engineer | Problem Solver | Tech Enthusiast*
+**Core Skills**: TypeScript, Node.js, React, Cloud Architecture, Microservices, PostgreSQL, AWS, GCP
