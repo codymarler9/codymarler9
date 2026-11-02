@@ -1,5 +1,10 @@
-# Cody Marler
+codymarler9
 
-Full-stack software engineer with experience building scalable web applications at Netflix and healthcare platforms. Focus on backend systems, cloud infrastructure, and team leadership.
+Engineer. TypeScript. Full-stack systems.
 
-**Core Skills**: TypeScript, Node.js, React, Cloud Architecture, Microservices, PostgreSQL, AWS, GCP
+Previous: Netflix, Healthcare platforms
+Current: Building at scale
+
+Languages: TypeScript, JavaScript, Python
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS, GCP
