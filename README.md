@@ -1,4 +1,4 @@
-# Cody Marler
+**Cody Marler**
 
 Senior full-stack software engineer with experience building large-scale applications at Netflix.
 
