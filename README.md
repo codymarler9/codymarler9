@@ -1,47 +1,47 @@
-# Cody Marler
+<p align="center"><img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,graphql,postgres,aws,tailwind,redis,githubactions" /></p>
 
-**MLOps Infrastructure Engineer**
 
-## Journey
+<h2 align="center">✦ Cody Marler ✦</h2>
+<p align="center">senior software engineer · 10 years of full-stack web</p>
 
-Started as a full-stack web developer focused on user-facing features. Gradually became fascinated by the hidden machinery that makes production machine learning possible. Over the past three years, transitioned completely into building robust, scalable infrastructure for ML systems.
 
-## Evolution Timeline
+I like software that **feels quick and simple even when the system underneath is not**. Most of my work lives on the web, from the first component to the production API behind it, across healthcare staffing, banking and streaming media.
 
-**2022: First Steps**
-Deployed the first containerized ML model. The experience was painful—no automation, no monitoring, no deployment pipeline. Three months from local development to production. Realized this couldn't scale.
 
-**2023: Infrastructure Building**
-Built the first feature store, implementing automated feature computation and retrieval. Result: 70% reduction in feature engineering time. Data scientists could focus on model design instead of data plumbing. Started building automation frameworks.
+```tsx
+export const HowIWork = () => (
+  <Engineer name="Cody Marler">
+    <ShipSmall prs="behind flags" release="gradual" measured />
+    <FastByDefault budgets="in CI" regressions={0} />
+    <Accessible keyboard screenReader contrast part="of done" />
+  </Engineer>
+);
+```
 
-**2024: Scale and Maturity**
-Deployed 50+ models simultaneously with automated training, testing, and deployment pipelines. Created self-service tools for data scientists. Monitoring and alerting systems prevent production issues.
 
-**Current: High-Reliability Operations**
-Operating ML platform serving 100+ concurrent inference requests with 99.9% uptime. Continuous optimization of latency, cost, and reliability.
+### ✦ Things I've built
 
-## What I Build
 
-### 🛠️ Scalable Model Serving
-Design and implement Kubernetes-based model serving infrastructure with auto-scaling, load balancing, and resource optimization. Multiple models running simultaneously, handling thousands of requests per second.
+<img src="https://img.shields.io/badge/marketplace-0ea5e9?style=for-the-badge" height="22" align="top" /> &nbsp;**ShiftMatch** · hospitals post open shifts and clinicians claim them, with map search, credential checks and instant confirmations
 
-### Automated ML Pipelines
-End-to-end pipeline automation from data ingestion through model training, testing, and deployment. Reduced manual intervention and enabled rapid iteration.
 
-### Developer Experience
-Creating tools that data scientists love using. Good tools feel invisible—they just work. Bad tools create bottlenecks and frustration.
+<img src="https://img.shields.io/badge/video-e11d48?style=for-the-badge" height="22" align="top" /> &nbsp;**StreamKit** · an adaptive-bitrate web player with captions, keyboard control and a diagnostics panel for playback issues in the field
 
-### Monitoring and Observability
-Comprehensive monitoring for model performance, inference latency, data quality, and system health. Early detection of issues before they impact production.
 
-## Focus Areas
+<img src="https://img.shields.io/badge/fintech-16a34a?style=for-the-badge" height="22" align="top" /> &nbsp;**LoanDesk** · a guided loan application that autosaves, validates as you type and updates the payment estimate live
 
-Reducing time-to-production from months to days. Enabling data scientists to deploy and iterate quickly. Balancing model accuracy against inference latency and infrastructure cost. Building systems that scale gracefully.
 
-## Technical Stack
+<img src="https://img.shields.io/badge/design%20system-7c3aed?style=for-the-badge" height="22" align="top" /> &nbsp;**Prism UI** · accessible React primitives, theming tokens with dark mode, and Storybook docs
 
-Kubernetes, Docker, Airflow, MLflow, Prometheus, Grafana, Python, SQL, Cloud platforms
 
----
+<img src="https://img.shields.io/badge/web%20performance-ea580c?style=for-the-badge" height="22" align="top" /> &nbsp;**Perf Lab** · Lighthouse on every pull request, Core Web Vitals trends, and builds that fail when pages get slower
 
-*Enabling ML at scale.*
+
+<img src="https://img.shields.io/badge/dev%20tools-475569?style=for-the-badge" height="22" align="top" /> &nbsp;**Flagpole** · feature flags with sticky percentage rollouts, targeting rules and local-evaluation SDKs
+
+
+<br>
+
+
+<p align="center"><sub>✦ also at home with Playwright · Storybook · Radix UI · hls.js · Mapbox · Lighthouse CI ✦</sub></p>
+
